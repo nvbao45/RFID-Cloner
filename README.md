@@ -7,6 +7,10 @@ This project is an Arduino-based solution designed for cloning and interacting w
 - Supports reading and writing RFID tags.
 - Fully compatible with RFID MFRC522 modules and Nokia 5110 LCD displays.
 
+## Demo
+
+[Watch the demo video](https://www.tiktok.com/@bloaon/video/7495078987660659975?is_from_webapp=1&sender_device=pc&web_id=7501624603162428944)
+
 ## Requirements
 
 - Arduino board (e.g., Uno, Mega, Nano).
@@ -29,4 +33,3 @@ This project is an Arduino-based solution designed for cloning and interacting w
 3. Connect your Arduino board to your computer.
 
 4. Upload the code to the Arduino board.
-
