@@ -11,6 +11,8 @@ This project is an Arduino-based solution designed for cloning and interacting w
 
 [Watch the demo video](https://www.tiktok.com/@bloaon/video/7495078987660659975?is_from_webapp=1&sender_device=pc&web_id=7501624603162428944)
 
+![RFID Cloner Diagram](diagram.png)
+
 ## Requirements
 
 - Arduino board (e.g., Uno, Mega, Nano).
@@ -22,14 +24,12 @@ This project is an Arduino-based solution designed for cloning and interacting w
 
 ## Installation
 
-1. Clone the repository:
+1. Connect each component as shown in the diagram above.
+2. Clone the repository:
     ```bash
     git clone https://github.com/yourusername/RFIDCloner.io.git
     cd RFIDCloner.io
     ```
-
-2. Open the `.ino` file in the Arduino IDE.
-
-3. Connect your Arduino board to your computer.
-
-4. Upload the code to the Arduino board.
+3. Open the `.ino` file in the Arduino IDE.
+4. Connect your Arduino board to your computer.
+5. Upload the code to the Arduino board.
